@@ -1,0 +1,22 @@
+﻿[
+    {
+        "Title": "todo 1",
+        "IsDone": true,
+        "IsInEdit": false
+    },
+    {
+        "Title": "todo 2",
+        "IsDone": true,
+        "IsInEdit": false
+    },
+    {
+        "Title": "todo 3",
+        "IsDone": false,
+        "IsInEdit": false
+    },
+    {
+        "Title": "todo 4",
+        "IsDone": false,
+        "IsInEdit": false
+    }
+]
